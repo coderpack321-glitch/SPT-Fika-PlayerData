@@ -116,7 +116,7 @@
             }
           }
         },
-        "UpdateTime": 1766584017
+        "UpdateTime": 1766584727
       },
       "Inventory": {
         "items": [
@@ -16030,7 +16030,7 @@
         "HideoutCounters": null,
         "Seed": "1b8a98c221351169b38b47dbab6fcbc2",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1766584070,
+        "sptUpdateLastRunTimestamp": 1766584749,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -27184,6 +27184,12 @@
         "author": "ZGFueDkx",
         "dateAdded": 1766329858,
         "url": "https://github.com/danx91/WishlistExtended"
+      },
+      {
+        "name": "Nerf Frostbite",
+        "version": "1.0.0",
+        "author": "minesettimi",
+        "dateAdded": 1766584727
       }
     ],
     "receivedGifts": [
